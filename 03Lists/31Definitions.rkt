@@ -1,4 +1,5 @@
 #lang racket
+;Basic Functions
 (define lst ( list 1 2 3 )) ; list function returns all arguments as part of a single list
     (display "\n")
 ( display (car lst) )       ; 'car' returns the head of the list
