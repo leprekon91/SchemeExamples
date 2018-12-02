@@ -14,13 +14,8 @@ racket <name-of-file>
 ```
 
 ### Prerequisites
-
 DrRacket, [download](https://racket-lang.org/download/)
 
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 * [VSC](https://code.visualstudio.com/) - Editor
