@@ -30,7 +30,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 * **Andrey Grabarnick** - *Initial work* - [leprekon91](https://github.com/leprekon91)
 
-See also the list of [contributors]() who participated in this project.
+See also the list of [contributors](Contributers.md) who participated in this project.
 
 ## License
 
