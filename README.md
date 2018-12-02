@@ -28,8 +28,8 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Authors
 
-* **Andrey Grabarnick** - *Initial work* - [leprekon91](https://github.com/leprekon91)
-
+* **Andrey Grabarnick** - *Coding* - [leprekon91](https://github.com/leprekon91)
+* **Dan Lamberg** - *Initial Work*
 See also the list of [contributors](Contributers.md) who participated in this project.
 
 ## License
